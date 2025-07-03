@@ -5,17 +5,15 @@
 ✉️ Reach out: **sarveshmr9696@gmail.com**  
 
 ---
-
 ## 👨‍💻 About Me
 
 - 🔭 **Currently working on:**  
-  - 🛒 **T-Shirt Shopping Website** — a real-world full-stack e-commerce project  
-  - 🌐 **Personal Portfolio Website** — showcasing my work and skills
+  - 🛒 **T-Shirt Shopping Website and 2 more project** — a real-world full-stack  project  
 
 - 🌱 **Currently learning:**  
   - **Data Structures & Algorithms (DSA)**  
   - Solving real-world software problems
-
+  - 
 - 👯 **Looking to collaborate on:**  
   - Web development projects (MERN stack, frontend/backend)  
   - Open-source contributions  
@@ -52,7 +50,6 @@
 - **System Design** – Scalable architecture, APIs, caching, load balancing
 
 ---
-
 > ⚒️ *Always building. Always learning.*
 
 
