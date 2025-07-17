@@ -2,16 +2,16 @@
 ### 🚀 Passionate Full-Stack Web Developer | Software Engineer | Open Source Contributor
 
 🎓 Final-year B.Tech student at **ABES Engineering College (ABESEC)**  
-✉️ Reach out: **sarveshmr9696@gmail.com**  
+✉️ Reach out: **sarveshmr9696@gmail.com**  **9696532548**
 
 ---
 ## 👨‍💻 About Me
 
 - 🔭 **Currently working on:**  
-  - 🛒 **T-Shirt Shopping Website and 2 more project** — a real-world full-stack  project  
+  - 🛒 **AIRBNB website and 2 more project** — a real-world full-stack  project  
 
 - 🌱 **Currently learning:**  
-  - **Data Structures & Algorithms (DSA)**  
+  - **DSA**  
   - Solving real-world software problems
   - 
 - 👯 **Looking to collaborate on:**  
@@ -26,9 +26,6 @@
 
 - 💬 **Ask me about:**  
   - Web development, collaboration, or tech support
-
-- 📫 **How to reach me:**  
-  - ✉️ **sarveshmr9696@gmail.com**
 
 - ⚡ **Fun fact:**  
   - I love technology—and technology loves me back! 😄
