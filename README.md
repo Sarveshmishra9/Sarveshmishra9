@@ -13,7 +13,7 @@
 - 🌱 **Currently learning:**  
   - **DSA**  
   - Solving real-world software problems
-  - 
+    
 - 👯 **Looking to collaborate on:**  
   - Web development projects (MERN stack, frontend/backend)  
   - Open-source contributions  
