@@ -1,7 +1,7 @@
 # 💫 Hi there! I'm Sarvesh Mishra 👋  
 ### 🚀 Passionate Full-Stack Web Developer | Software Engineer | Open Source Contributor
 
-🎓 Final-year B.Tech student at **ABES Engineering College (ABESEC)**  
+🎓 Final-year B.Tech student at **ABES Engineering College**  
 ✉️ Reach out: **sarveshmr9696@gmail.com**  **9696532548**
 
 ---
