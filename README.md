@@ -2,8 +2,8 @@
 ### 🚀 Passionate Full-Stack Web Developer | Software Engineer | Open Source Contributor
 
 🎓 Final-year B.Tech student at **ABES Engineering College**  
-✉️ Reach out: **sarveshmr9696@gmail.com**  **9696532548**
-
+✉️ Reach out: **sarveshmr9696@gmail.com** 
+✉️ Reach out:  **9696532548**
 ---
 ## 👨‍💻 About Me
 
